@@ -1,0 +1,19 @@
+{
+  "name": "calculator-xpo-europe",
+  "version": "2.0.0",
+  "description": "Calculateur de prix de transport XPO pour l'Europe - Qualiwatt",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 3000",
+    "dev": "npx http-server -p 3000 -o"
+  },
+  "keywords": [
+    "xpo",
+    "transport",
+    "calculator",
+    "europe",
+    "qualiwatt"
+  ],
+  "author": "Yohan - Qualiwatt",
+  "license": "MIT"
+}
